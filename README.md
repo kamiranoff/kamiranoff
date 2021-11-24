@@ -1,2 +1,1 @@
-[![Kevin's GitHub stats](![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamiranoff&count_private=true&theme=radio)
-)
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamiranoff&count_private=true&theme=gruvbox)
